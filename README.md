@@ -67,4 +67,3 @@
 
 <img src="https://github.com/eyeq/mod-1.11.2-MoreRecipes/blob/master/screenshots/%E9%9D%A9(Leather).png" width="320px">  
 革
-[/spoiler]
