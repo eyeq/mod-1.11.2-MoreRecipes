@@ -1,4 +1,4 @@
-# [バニラ拡張]MoreRecipes
+# [バニラ拡張レシピ]MoreRecipes
 
 [**ダウンロード**](https://github.com/eyeq/mod-1.11.2-MoreRecipes/releases/download/1.0/1.11.2-MoreRecipes-1.0.jar)
 
